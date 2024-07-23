@@ -1,0 +1,1 @@
+el significado de **verb tense** español es tiempo verbal

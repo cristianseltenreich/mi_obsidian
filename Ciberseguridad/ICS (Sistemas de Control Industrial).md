@@ -1,0 +1,3 @@
+Estos sistemas se utilizan para supervisar y controlar procesos industriales, como los que se encuentran en plantas de energía, fábricas, infraestructuras críticas y redes eléctricas.
+
+Los ICS incluyen componentes como sensores, actuadores, controladores lógicos programables (PLCs) y sistemas SCADA (Supervisory Control and Data Acquisition). La seguridad de los ICS es crucial para evitar interrupciones y posibles daños.

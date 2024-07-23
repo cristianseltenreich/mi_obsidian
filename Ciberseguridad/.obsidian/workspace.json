@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "df7e532bdf127f5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "61a155c357c4a2b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2c170df5303f4ba",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eeba834bb7411cfb",
+    "type": "split",
+    "children": [
+      {
+        "id": "712b4e8328abf242",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b1d7f540609b8907",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "93f70f5b4f43433d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ee0a9ede93bb7ef6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "076d555681dbc20a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f440ef0968f11469",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7893f150123f7774",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b0784c62e5c25919",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "84b88999fcccad90",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f58b5c7084005197",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo canvas": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "c2c170df5303f4ba",
+  "lastOpenFiles": [
+    "Método KaiZen.md",
+    "Seguridad en Terminales/Amenazas/Ataques Cibernéticos.md",
+    "Seguridad en Terminales/Amenazas",
+    "Seguridad en Terminales/Amenazas/Amenazas Comunes.md",
+    "Seguridad en Terminales/Amenazas/Ataques a dispositivos inalámbricos y móviles/SMiShing.md",
+    "Seguridad en Terminales/Amenazas/Ataques a dispositivos inalámbricos y móviles/Grayware.md",
+    "Seguridad en Terminales/Amenazas/Ataques a dispositivos inalámbricos y móviles",
+    "Seguridad en Terminales/Amenazas/Ataques de capa 2/Saturación de direcciones MAC.md",
+    "Seguridad en Terminales/Amenazas/Ataques de capa 2/Spoofing.md",
+    "Seguridad en Terminales/Amenazas/Ataques de capa 2/Ataques de capa 2.md",
+    "Pasted image 20240208123211.png",
+    "Redes/OSI/MAC.md",
+    "Seguridad en Terminales/Amenazas/Ataques de capa 2",
+    "Seguridad en Terminales/Amenazas/Ataques de capa 2",
+    "Pasted image 20240208122658.png",
+    "Redes/OSI/ARP.md",
+    "Redes/OSI/ARP",
+    "Redes/OSI",
+    "Redes/OSI/Capa 2",
+    "Redes",
+    "Imágenes/Pasted image 20240208105729.png",
+    "Imágenes/Pasted image 20240208105628.png",
+    "Imágenes",
+    "Imágenes/Pasted image 20240208105515.png",
+    "Seguridad en Terminales",
+    "Welcome.md"
+  ]
+}

@@ -1,0 +1,8 @@
+[[PS]]
+[[top]]
+[[hilos de un proceso]]
+[[htop]]
+[[pstree]]
+[[kill]]
+[[Prioridades nice - renice]]
+[[Procesos en Segundo Plano - Jobs]]

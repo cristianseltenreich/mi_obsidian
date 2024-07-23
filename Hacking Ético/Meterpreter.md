@@ -1,0 +1,3 @@
+Meterpreter, in particular, is a payload within [[Metasploit]] that allows users to take control of a target’s device by writing their own extensions and uploading these files into a running process on the device. These files are loaded and executed from memory, so they never involve the hard drive. This means that such files fly under the radar of antivirus detection.
+
+Meterpreter also has a module for controlling a remote system’s webcam. Once Meterpreter is installed on a target device, the Metasploit user can view and capture images from the target’s webcam.

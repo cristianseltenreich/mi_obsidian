@@ -1,0 +1,1 @@
+endeavor: esfuerzo, esforzarse, esforzar

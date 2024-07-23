@@ -1,0 +1,2 @@
+lure: atraer
+lure: señuelo

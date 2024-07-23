@@ -1,0 +1,4 @@
+hijacking: secuestro
+hijack: secuestrar
+
+
