@@ -45,26 +45,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ciberseguridad/Wazuh/Laboratorio Wazuh _ 01 instalación en VM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0be1f4120eb77156",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "conocimiento_p_mario/Docker/Laboratorios Docker Pentesting.md",
+                "file": "conocimiento_p_mario/Coding/WordPress/Instalación de WordPress.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -130,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conocimiento_p_mario/Docker/Laboratorios Docker Pentesting.md",
+                "file": "conocimiento_p_mario/Coding/WordPress/Instalación de WordPress.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +135,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conocimiento_p_mario/Docker/Laboratorios Docker Pentesting.md",
+                "file": "conocimiento_p_mario/Coding/WordPress/Instalación de WordPress.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conocimiento_p_mario/Docker/Laboratorios Docker Pentesting.md"
+                "file": "conocimiento_p_mario/Coding/WordPress/Instalación de WordPress.md"
               }
             }
           }
@@ -191,8 +179,24 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "c0d69cfacf6813dd",
+  "active": "5ccc85a99f426789",
   "lastOpenFiles": [
+    "Hacking Ético/Hack The Box/NETWORK ENUMERATION WITH NMAP/Introduction to Nmap.md",
+    "conocimiento_p_mario/Coding/Python/Hacking Python/Script de Python para hacer Fuzzing.md",
+    "conocimiento_p_mario/Coding/Python/Hacking Python/Nmap con Python.md",
+    "conocimiento_p_mario/Coding/Python/Generico/Conceptos B├ísicos/Bucle FOR.md",
+    "conocimiento_p_mario/Coding/Python/API/Librería VirusTotal Apis.md",
+    "conocimiento_p_mario/Coding/Python/API/Conectar Python con Shodan.md",
+    "conocimiento_p_mario/Coding/Python/API/Conectar Python con ChatGPT.md",
+    "conocimiento_p_mario/Coding/Python/API/Conectar Python con AbuseIP.md",
+    "conocimiento_p_mario/Coding/Python/Hacking Python/Ataque Fuerza Bruta FTP con Python.md",
+    "conocimiento_p_mario/Hacking/Escalada de Privilegios/Linux/2 - Escalar privilegios con un script con todos los permisos.md",
+    "conocimiento_p_mario/Hacking/Escalada de Privilegios/Linux/1 - Linux Exploit Suggester.md",
+    "conocimiento_p_mario/Hacking/Escalada de Privilegios/Linux/0 - Comprobaciones Iniciales Escalada Privilegios en Linux.md",
+    "Ciberseguridad/Wazuh/Laboratorio Wazuh _ 01 instalación en VM.md",
+    "conocimiento_p_mario/Ingeniería/Ecuaciones.md",
+    "conocimiento_p_mario/Ingeniería/Vectores.md",
+    "conocimiento_p_mario/Docker/Laboratorios Docker Pentesting.md",
     "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 3 - Blind OS command injection with output redirection.md",
     "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 2 - Blind OS command injection with time delays.md",
     "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection/Laboratorio 1 - OS command injection, simple case.md",
@@ -203,23 +207,7 @@
     "CONOCI~1/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/Máquina 1 -- Máquina 2.md",
     "CONOCI~1/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers/0 - Preparación del Entorno.md",
     "CONOCI~1/Hacking/Hacking Generico/Hacking Web/BurpSuite/Intruder en Burp Suite.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/BurpSuite/Fuzzing con BurpSuite.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/BurpSuite/Evitar Redirect de una Web con BurpSuite.md",
     "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger/OS Command Injection",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/3 - Obtención del wp.config.php.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/2 - XMLRPC.PHP.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Hacking Wordpress/1 - Enumerar Usuarios y Plugins con WordPress.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/WFUZZ.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Sublist3r.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/DIRB.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Gobuster.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Dirsearch.md",
-    "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Fuzzing Web/Detectar subdominios.md",
-    "CONOCI~1/Hacking/CTF/TryHackMe/MAQUINA ARCHANGEL (Fuzzing, Local File Inclusion con wrappers, log poissoning y manipulación del PATH).md",
-    "CONOCI~1/Hacking/CTF/Vulnyx/MAQUINA LISTEN.md",
-    "CONOCI~1/Hacking/CTF/Vulnyx/MAQUINA WICCA.md",
-    "CONOCI~1/Hacking/CTF/Vulnyx/MAQUINA ZERO.md",
-    "CONOCI~1/Hacking/CTF/Vulnyx/MAQUINA SHOP (Fuzzing, SQLi con sqlmap, escalada de privilegios en Linux con linpeas, perl y gtfobins).md",
     "CONOCI~1/Hacking/Pivoting/Preparación eCPPTv2/Laboratorio Ubuntu Servers",
     "CONOCI~1/Hacking/Hacking Generico/Hacking Web/BurpSuite",
     "CONOCI~1/Hacking/Hacking Generico/Hacking Web/Laboratorios PortSwigger",
